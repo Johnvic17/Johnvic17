@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome]! 👋
+# Hi there, I'm João! 👋
 
 I'm a Junior Software Engineer who loves bridging the gap between clean frontend interfaces and robust backend architectures. I don't just write code; I build solutions that impact real-world operations—like developing a secure, high-stakes intranet for a hospital environment. 🏥💻
 
